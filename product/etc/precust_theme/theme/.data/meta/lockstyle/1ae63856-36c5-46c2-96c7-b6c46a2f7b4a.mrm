@@ -1,0 +1,61 @@
+{
+  "localId": "1ae63856-36c5-46c2-96c7-b6c46a2f7b4a",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "ae19dbf6b09e2cb387299827aaa161652a676ebf",
+  "platform": 13,
+  "size": 5075206,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Redmi手机",
+    "zh_CN": "Redmi手机"
+  },
+  "designers": {
+    "fallback": "Redmi手机",
+    "zh_CN": "Redmi手机"
+  },
+  "titles": {
+    "fallback": "阿童木潮流限定主题",
+    "zh_CN": "阿童木潮流限定主题"
+  },
+  "descriptions": {
+    "fallback": "官方授权，Redmi 手机专属《阿童木潮流限定主题》。科技之心改变世界，铁臂阿童木以十万马力，带你冲破天际。",
+    "zh_CN": "官方授权，Redmi 手机专属《阿童木潮流限定主题》。科技之心改变世界，铁臂阿童木以十万马力，带你冲破天际。"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "ba07b214-daef-43ed-b8ab-77addbaf87b5",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "miuiAdapterVersion": "2.0"
+}

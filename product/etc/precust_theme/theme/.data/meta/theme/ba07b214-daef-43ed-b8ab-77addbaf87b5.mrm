@@ -1,0 +1,131 @@
+{
+  "localId": "ba07b214-daef-43ed-b8ab-77addbaf87b5",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "5ef449b3052a2fd88b3b8b3bc4f68a0860061f2e",
+  "platform": 13,
+  "size": 13113401,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "Redmi手机",
+    "fallback": "Redmi手机"
+  },
+  "designers": {
+    "zh_CN": "Redmi手机",
+    "fallback": "Redmi手机"
+  },
+  "titles": {
+    "zh_CN": "阿童木潮流限定主题",
+    "fallback": "阿童木潮流限定主题"
+  },
+  "descriptions": {
+    "zh_CN": "官方授权，Redmi 手机专属《阿童木潮流限定主题》。科技之心改变世界，铁臂阿童木以十万马力，带你冲破天际。",
+    "fallback": "官方授权，Redmi 手机专属《阿童木潮流限定主题》。科技之心改变世界，铁臂阿童木以十万马力，带你冲破天际。"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_statusbar_1.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_statusbar_1.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "41aed85f-fbc6-4aed-a1de-d5e6ed5558a0",
+      "resourceCode": "contact",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "41dcb464-629b-4b7b-8a77-381eba3d4252",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "1ae63856-36c5-46c2-96c7-b6c46a2f7b4a",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "0852fafb-55b1-4a3f-a470-38fc16fc43e6",
+      "resourceCode": "mms",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "43c43796-d901-4c51-b87e-601156fc45e3",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "93c62063-e80f-4f5b-a53b-7a29c928f09a",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "8505e23c-1566-4301-8d46-75dd29204048",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "bb802250-1d6c-4f7c-af8c-823e393a3280",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "22705ab2-ad3b-4a46-8557-1eb546d02395",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "miuiAdapterVersion": "2.0"
+}
