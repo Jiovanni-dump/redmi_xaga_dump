@@ -1,0 +1,68 @@
+{
+  "localId": "7e9f29b8-3208-4b3e-9328-f4fe337609cb",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "3ce6432b48b3e145701603d92da61db6f7d1d6fd",
+  "platform": 15,
+  "size": 177,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_TW": "小米主题",
+    "zh_HK": "小米主题",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Mi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇب",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "designers": {
+    "zh_TW": "小米主题",
+    "zh_HK": "小米主题",
+    "bo_CN": " ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Mi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇب",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "titles": {
+    "zh_TW": "阿童木潮流限定主题",
+    "zh_HK": "阿童木潮流限定主题",
+    "bo_CN": "阿童木潮流限定主题",
+    "en_US": "阿童木潮流限定主题",
+    "ug_CN": "阿童木潮流限定主题",
+    "zh_CN": "阿童木潮流限定主题",
+    "fallback": "阿童木潮流限定主题"
+  },
+  "descriptions": {
+    "fallback": "阿童木潮流限定主题"
+  },
+  "builtInThumbnails": {
+    "en_US": [],
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "en_US": [],
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "476a2eb1-ce9f-467d-af49-e188403cb4db",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "fontWeight": null,
+  "miuiAdapterVersion": "3.0"
+}
