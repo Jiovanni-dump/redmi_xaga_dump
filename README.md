@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UP1A.231005.007 V816.0.11.0.ULOCNXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: xaga
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: V816.0.11.0.ULOCNXM
+- tags: release-keys
+- fingerprint: Redmi/xaga/xaga:12/SP1A.210812.016/V816.0.11.0.ULOCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-14-UP1A.231005.007-V816.0.11.0.ULOCNXM-release-keys
+- repo: redmi_xaga_dump
